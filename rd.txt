@@ -6,6 +6,7 @@
 77777
 88888
 99999
+<<<<<<< HEAD
 2121
 aaaaaa
 bbbbb
@@ -18,3 +19,9 @@ B22222
 
 R
 22222222rrrrrrrrrrrrrrrrrrrr
+=======
+101010
+qqqqq
+nnnnn
+ssssss
+>>>>>>> ea2c5897e873508185594a6a994769b6fe4d0b45
